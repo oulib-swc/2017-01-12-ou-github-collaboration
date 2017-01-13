@@ -1,14 +1,14 @@
 ##Zimbabwe
 ## population
+
+
 14.5 Million
 
 ## capital
-Some City...
- 
+Zimbabwe City
 ## official language
-Some language...
+Zimbabeish
 
 ## interesting trivia
-It's Zimbabwe!
-
+Zimbabwe has a higher population than the entire history of the planet earth.
 
